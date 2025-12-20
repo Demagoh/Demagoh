@@ -1,6 +1,6 @@
 # Demagoh
 
-I'm a guy.
-I like to code.
-I sleep.
+I'm a guy.<br />
+I like to code.<br />
+I sleep.<br />
 Yes.
